@@ -21,9 +21,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Aplicacion de List View
 
-- Propiedades de list view: [https://flutlab.io/residents](https://flutlab.io/editor/0b70231d-5820-4ecb-8579-5fada01afad5)
+- Propiedades de list view: [[https://flutlab.io/residents](https://flutlab.io/editor/0b70231d-5820-4ecb-8579-5fada01afad5)](https://flutlab.io/editor/0b70231d-5820-4ecb-8579-5fada01afad5)
 
   
 - Link de referencia: https://codesinsider.com/flutter-listview-example/?expand_article=1
 
--Alberto Carbajal Vazquez 
+-- Alberto Carbajal Vazquez 6J
