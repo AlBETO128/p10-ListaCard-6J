@@ -27,3 +27,6 @@ samples, guidance on mobile development, and a full API reference.
 - Link de referencia: https://codesinsider.com/flutter-listview-example/?expand_article=1
 
 - Alberto Carbajal Vazquez 6J
+
+- ![image](https://github.com/AlBETO128/p10-ListaCard-6J/assets/143547229/d0f535c7-d45e-4ca0-8b6e-6f94f64843a0)
+
